@@ -58,3 +58,8 @@ Token classification|Extract piece of text like NER|Transformers|https://hugging
 |QA|Find answer to a question in a text|Transformers|https://huggingface.co/docs/transformers/task_summary#extractive-question-answering
 |Coreference|Replace pronouns and else by true self|Multilingual Coreference|https://github.com/Pandora-Intelligence/crosslingual-coreference
 |Relation Extraction|Find relation between entities|Spacy|https://www.youtube.com/watch?v=8HL-Ap5_Axo
+<br/><br/>
+# Concepts
+[Coference resolution](/coference%20resolution.md)
+
+[Transformers training](/Transformers%20training%20consideration.md)
