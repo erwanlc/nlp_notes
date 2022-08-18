@@ -13,8 +13,10 @@
 # Framework
 |Name|Description|Source|
 |----|-----------|------|
+|**BERTopic**|Topic modelling with Bert|https://github.com/MaartenGr/BERTopic|
 |DrQA|QA directly on Wikipedia|https://github.com/facebookresearch/DrQA|
 |Haystack|QA and semantic search with transformers|https://github.com/deepset-ai/haystack|
+|Simple Transformers|Quickly train and evaluate Transformers|https://github.com/ThilinaRajapakse/simpletransformers|
 |Snips NLU|NLU for chatbot|https://github.com/snipsco/snips-nlu|
 |**Spacy**|Industrial-strength NLP in Python|https://github.com/explosion/spaCy|
 |Spark NLP|Use famous NLP models with Spark|https://github.com/JohnSnowLabs/spark-nlp|
